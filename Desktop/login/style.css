@@ -1,0 +1,17 @@
+*body{   
+    background: rgb(24, 155, 74);  
+}  
+#frm{  
+    border: solid rgb(16, 131, 64) 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: rgb(11, 12, 11);  
+    background: #18df28;  
+    padding: 7px;  
+    margin-left: 70%;  
+} 
