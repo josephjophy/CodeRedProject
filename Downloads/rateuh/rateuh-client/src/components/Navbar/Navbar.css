@@ -1,0 +1,28 @@
+
+.bg-uhred{
+    background-color:rgb(200,16,46);
+}
+
+
+.App-logo{
+    width: 60px;
+    height: 60px;
+}
+
+.home-button{
+    color: white;
+}
+
+.home-button:hover{
+    color: white;
+    font-weight: bold;
+}
+
+
+.search-button{
+    background-color:rgb(0,179,36);
+    color: white;
+}.search-button:hover{
+    background-color: rgb(0,134,108);
+}
+

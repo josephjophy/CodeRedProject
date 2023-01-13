@@ -1,0 +1,93 @@
+.App-logo-home{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+    width: 250px;
+    height: 250px;
+}
+
+.mission{
+    text-align: center;
+    font-size: 35px; 
+}.mission-statement,.features{
+    text-align: center;
+    font-size: 25px;
+}
+
+.about-menu{
+    position: absolute;
+    margin-top: 125px;
+    left:0%;
+    right: 0%;
+    background-color:rgb(255,249,217);
+    height: 125px;
+    width: 100%;
+    text-align: center;
+}
+
+.faculty-section{
+    position: absolute;
+    left:0%;
+    right:0%;
+    background-color:rgb(200,16,46);
+    height: 500px;
+    width: 100%;
+    margin-top: 200px;
+}
+
+.intr-intro{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.faculty-about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 50%;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.cou-intro{
+    position: relative;
+    margin-top:750px;
+    display: flex;
+    justify-content: center;
+    color:rgb(200, 16, 46);
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.get-started{
+    background-color:rgb(0,179,36);
+    border-color:rgb(255,249,217);
+}.get-started:hover{
+    background-color: rgb(0,134,108);
+    border-color: rgb(0,179,36);
+}
+
+.courses-about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 50%;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.get-started2{
+    color:white;
+    text-decoration-line: none;
+}.get-started2:hover{
+    color:white;
+}
+  
